@@ -1,0 +1,24 @@
+{
+    "name": "hafly/php-tools",
+    "keywords": [
+        "Filesystem",
+        "tools"
+    ],
+    "authors": [
+        {
+            "name": "hafly",
+            "email": "188150920@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0",
+        "ext-zip": "*",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpTools\\": "src"
+        }
+    }
+}
