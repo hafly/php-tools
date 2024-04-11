@@ -1,7 +1,7 @@
 {
     "name": "hafly/php-tools",
     "keywords": [
-        "Filesystem",
+        "filesystem",
         "tools"
     ],
     "authors": [
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hafly\\PhpTools\\": "src"
+            "hafly\\phptools\\": "src/"
         }
     }
 }
