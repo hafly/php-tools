@@ -1,16 +1,19 @@
 {
     "name": "hafly/php-tools",
+    "description": "php tools",
+    "type": "library",
+    "version": "v1.3",
     "keywords": [
         "filesystem",
         "tools"
     ],
+    "license": "MIT",
     "authors": [
         {
             "name": "hafly",
             "email": "188150920@qq.com"
         }
     ],
-    "license": "MIT",
     "require": {
         "php": ">=8.0",
         "ext-zip": "*",
